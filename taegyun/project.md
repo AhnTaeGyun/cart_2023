@@ -4,7 +4,7 @@
 
 **다양한 용도로 형태를 변경할 수 있는 스마트 카트**
 
-![1](D:\ict\pj1.PNG)
+![1](D:\ict\cart_2023\taegyun\pj1.PNG)
 
 \- **오르가미형** 기술을 활용하여 카트의 부피를 최소화함으로써 공간제약을 받지 않고 보관이 가능
 
@@ -18,7 +18,7 @@
 
 **수많은 종류의 카트들이 존재**
 
-![2](D:\ict\pj2.PNG)
+![2](D:\ict\cart_2023\taegyun\pj2.PNG)
 
 \-  하나의 카트로 다양한 산업현장 용도에 맞추어 사용이 가능한 스마트 이동 보조 장치가 필요
 
@@ -26,11 +26,11 @@
 
 \- 오르가미형 기술을 활용하여 다양한 크기의 물건을 이동시킬 수 있고 뛰어난 공간활용 능력을 기반으로 협소한 공간에서도 사용이 가능하기 때문에 무인 매장, 첨단 자동화 공장, 물류센터, 병원 등 다양한 분야에서 활용성 있게 사용이 가능하기 때문에 개발이 필요
 
-![3](D:\ict\pj3.PNG)
+![3](D:\ict\cart_2023\taegyun\pj3.PNG)
 
 ## 3. 프로젝트 특·장점
 
-![4](D:\ict\pj4.PNG)
+![4](D:\ict\cart_2023\taegyun\pj4.PNG)
 
 # 프로젝트 내용
 
@@ -38,7 +38,7 @@
 
 **하드웨어 구성도**
 
-![5](D:\ict\pj5.PNG)
+![5](D:\ict\cart_2023\taegyun\pj5.PNG)
 
 **S/W** **구성도**
 
@@ -53,47 +53,47 @@
 
 **시스템 구성도**
 
-![6](D:\ict\pj6.PNG)
+![6](D:\ict\cart_2023\taegyun\pj6.PNG)
 
 ## 2. 프로젝트 기능
 
 **전체 기능 목록**
 
-![7](D:\ict\pj7.PNG)
+![7](D:\ict\cart_2023\taegyun\pj7.PNG)
 
 **S/W** **주요기능**
 
-![8](D:\ict\pj8.PNG)
+![8](D:\ict\cart_2023\taegyun\pj8.PNG)
 
 **H/W** **주요 기능** 
 
-![9](D:\ict\pj9.PNG)
+![9](D:\ict\cart_2023\taegyun\pj9.PNG)
 
 ## 3. 주요 적용 기술
 
-![10](D:\ict\pj10.PNG)
+![10](D:\ict\cart_2023\taegyun\pj10.PNG)
 
 ## 4. 프로젝트 개발 환경
 
-![11](D:\ict\pj11.PNG)
+![11](D:\ict\cart_2023\taegyun\pj11.PNG)
 
 ## 5. 기타 사항 [본문에서 표현되지 못한 프로젝트의 가치(Value)] 및 제작 노력
 
-![12](D:\ict\pj12.PNG)
+![12](D:\ict\cart_2023\taegyun\pj12.PNG)
 
  \- 목업(Mock-Up) 제작
 
-![13](D:\ict\pj13.PNG)
+![13](D:\ict\cart_2023\taegyun\pj13.PNG)
 
  \- 프로젝트 예상 실물
 
-![14](D:\ict\pj14.PNG)
+![14](D:\ict\cart_2023\taegyun\pj14.PNG)
 
 # 프로젝트 수행 내용
 
 ## 1. 프로젝트 수행일정
 
-![15](D:\ict\pj15.PNG)
+![15](D:\ict\cart_2023\taegyun\pj15.PNG)
 
 ## 2. 프로젝트 추직 과정에서의 문제점 및 해결방안
 
@@ -119,11 +119,11 @@
 
 ## 1. 프로젝트의 기대효과
 
-![16](D:\ict\pj16.PNG)
+![16](D:\ict\cart_2023\taegyun\pj16.PNG)
 
 ## 2. 프로젝트의 활용분야
 
-![17](D:\ict\pj17.PNG)
+![17](D:\ict\cart_2023\taegyun\pj17.PNG)
 
 
 
